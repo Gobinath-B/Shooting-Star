@@ -1,7 +1,7 @@
 global_vars = {}
 
 config = {
-    'shodan_api_key' : '',
+    'shodan_api_key' : 'cQLUaCxcXbQOjM31SaxlhYnNtX6SZI68',
     'max_shodan_credits' : 2,
     'shodan_call_threshold' : 8,
     'slack_webook' : '',
